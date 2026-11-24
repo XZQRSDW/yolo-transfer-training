@@ -2,7 +2,7 @@
 
 基于 Ultralytics 官方在 COCO（80 类）上预训练的 **YOLO11s** 权重进行两阶段迁移微调，最终得到可识别 **9 种食材**的检测模型。
 
-- **预训练权重**：[`yolo11s.pt`](https://github.com/ultralytics/assets/releases/download/v8.4.0/yolo11s.pt)（[官方 Releases](https://github.com/ultralytics/assets/releases)）
+- **预训练权重**：[`yolo11s.pt`](https://github.com/ultralytics/assets/releases/download/v8.4.0/yolo11s.pt)
 
 ## 学习思路
 
